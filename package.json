@@ -1,5 +1,5 @@
 {
-  "name": "@opensearch-project/opensearch",
+  "name": "test-opensearch",
   "description": "The official OpenSearch client for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
